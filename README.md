@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hoi daar! Ik ben een gepassioneerde network engineer met een avontuurlijke kant.<br> Naast het opzetten en beheren van netwerken, heb ik ook een liefde voor het <br>verkennen van de wereld vanuit een hoger perspectief - letterlijk! 🎈🌍<br><br>In mijn vrije tijd ben ik een enthousiaste warmelucht ballonvaarder, <br>die geniet van het zweven boven prachtige landschappen en het gevoel van vrijheid dat het met zich meebrengt.<br> Maar als ik weer met beide benen op de grond sta, ben ik net zo gedreven om mijn netwerkvaardigheden <br>te verbeteren en bij te dragen aan innovatieve projecten.<br><br>Kortom, ik ben een techneut en een avonturier, en ik kan niet wachten <br>om te zien waar mijn reis me naartoe zal leiden. 🚀
+👋 Hi there! I'm a passionate network engineer with an adventurous side. In addition to setting up and managing networks, I also have a love for exploring the world from a higher perspective - quite literally! 🎈🌍
+
+In my free time, I'm an enthusiastic hot air balloonist, who enjoys drifting above beautiful landscapes and the sense of freedom it brings. But when I'm back on solid ground, I'm just as driven to enhance my networking skills and contribute to innovative projects.
+
+In a nutshell, I'm a techie and an adventurer, and I can't wait to see where my journey will take me. 🚀
 
 
 ## 🌐 Socials:
